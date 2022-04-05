@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/web/WEB-INF/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.56" scope="PROVIDED"/>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="servlet-api" value="project"/>
+		<level name="Tomcat 9.0.56" value="application_server_libraries"/>
+	</levels>
+</component>
